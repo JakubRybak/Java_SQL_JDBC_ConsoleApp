@@ -14,4 +14,4 @@ It includes a database creation script and implements several transactional oper
 
 - **Java** (console application)
 - **JDBC** (Java Database Connectivity)
-- **SQL** (tested with PostgreSQL/MySQL)
+- **SQL** 
